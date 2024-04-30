@@ -1,0 +1,19 @@
+#pesquisar{
+    text-align: center;
+    padding: 5vh;
+
+}
+
+#cartasContainer{
+    padding: 10vh;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+#cartasContainer .carta{
+    margin: 10px;
+    display: block;
+    width: auto;
+    height: auto;
+
+}
